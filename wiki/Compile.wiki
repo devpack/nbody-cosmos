@@ -1,0 +1,1 @@
+Compiled with Cygwin and mingw. Makefile in the trunk.
